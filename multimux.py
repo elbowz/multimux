@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # =======================================
-# mux-series v0.1b - Copyright 2011
+# multimux v0.1b - Copyright 2011
 # Writted by muttley
 # Get last version from muttley.eb2a.com
 # =======================================
